@@ -4,7 +4,7 @@
    - harga           = 5.000
    - jumlah          = 5
    Apakah data dapat ditambahkan?jelaskan!
-  Tidak bisa ditambahkan, karena sata tersebut sudah ditambahkan.
+   Tidak bisa ditambahkan, karena data tersebut sudah ditambahkan.
 
 8. Hapus garis hubung antar tabel penjualan dan detail penjualan. Dengan cara mengklik ujung garis pada tabel penjualan dan detail penjualan kemudian klik hapus.
    ![Screenshot (137)](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/36293780-96a1-476f-8a28-aecb925ef74e)
