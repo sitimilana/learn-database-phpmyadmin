@@ -13,5 +13,5 @@ Link :http://localhost/phpmyadmin
 ![Screenshot (126)](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/1d2f2219-8999-4f4d-9951-ce46a9450f40)
 ![Screenshot (127)](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/aa3db52c-6a1e-45d3-a142-cbb00553b87e)
 
-Jika sudah berhasil maka akan muncul data penjualan_produk di daftar basis data 
+5. Jika sudah berhasil maka akan muncul data penjualan_produk di daftar basis data
 ![Screenshot (128)](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/3bcf5581-438d-405f-8dba-69a4a0f209aa)
