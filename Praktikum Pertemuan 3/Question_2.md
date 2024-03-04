@@ -1,7 +1,7 @@
 PERTANYAAN:
 Ambil contoh database dari yang anda gunakan pada tugas jobsheet sebelumnya. Buatlah
 rancangan ER Diagram manual database tersebut dari tahap 1-4.
-![Screenshot (176)](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/9c0919ae-ecc2-488a-93e5-8d4e963aa5b7)
+![Capture](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/07c823eb-ebdf-4b78-9362-c0b3bacc3820)
 
 ![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/46b0285a-b0a7-49e4-871c-2e9c728550de)
 ![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/439437a1-65a5-416c-9349-8b87fd19cbf6)
