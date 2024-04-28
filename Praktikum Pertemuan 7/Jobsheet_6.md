@@ -8,12 +8,12 @@
 
 ![Screenshot 2024-04-28 235656](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/a044b6e8-db71-490b-8dbf-0cc7666f67cb)
 
-![Screenshot 2024-04-29 000007](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/f80ccdcd-f24b-43ca-921d-257d834ed259)
+![Screenshot 2024-04-29 000529](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/4922f71b-cb4e-42ed-8647-c4831969d04f)
+
 
 **SOAL NOMOR 3**
 
-![Screenshot 2024-04-28 235656](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/37db7d4f-ac85-4c09-b501-f53734783f09)
+![Screenshot 2024-04-29 000634](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/40302d08-5dd1-402f-8f50-e1769af95193)
 
-![Screenshot 2024-04-28 235729](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/b7294d68-894b-4920-acee-9d03103feace)
-
+![Screenshot 2024-04-29 000706](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/87817796-080b-41b8-8ef2-84aa7aac1031)
 
