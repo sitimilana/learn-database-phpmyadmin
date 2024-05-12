@@ -1,4 +1,5 @@
 **MEMBUAT DATABASE DENGAN MYSQL DI CLI**
+
 8. Tambahkan kolom agama varchar(10) pada tabel mahasiswa sebagai kolom terakhir
    ![Screenshot 2024-05-12 150031](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/6294511c-97fd-49a4-a17a-3495ff2492ed)
 
