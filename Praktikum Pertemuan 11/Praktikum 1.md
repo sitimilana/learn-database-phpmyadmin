@@ -5,7 +5,8 @@
 Teknologi Informasi. Pertama-tama, buatlah database tersebut dengan mengeksekusi barisbaris
 kode DDL berikut dan jelaskan maksud dari setiap tahapan tersebut.**
 
-1. Pertama yaitu membuat database baru 
+1. Pertama yaitu membuat database baru
+
 ![Screenshot 2024-05-16 085957](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/cea63ff5-62b9-4f88-b935-a9940ce7b8e5)
 
 2. Selanjutnya show databases lalu use database yang dibuat
@@ -55,6 +56,10 @@ kode DDL berikut dan jelaskan maksud dari setiap tahapan tersebut.**
 13.  Selanjutnya menambahkan kunci asing (FOREIGN KEY) pada kolom-kolom tersebut di tabel jadwal yang merujuk ke kolom dengan nama yang sama di tabel-tabel yang sesuai. Ini akan memastikan integritas data antara tabel jadwal dan tabel-tabel lainnya.
 
 ![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/d59dab2a-e6ab-4532-a307-4140d819f0ba)
+
+**BERIKUT HASIL TABLENYA**
+
+![Screenshot 2024-05-16 094553](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/79fa641b-e274-47a4-a72c-6cd017100e77)
 
 
 
