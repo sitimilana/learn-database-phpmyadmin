@@ -66,9 +66,20 @@
 
 **2. Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!**
 
+![Screenshot 2024-05-20 160626](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/9f6296b9-cb24-4258-a28c-66db802493e8)
 
-Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
-5.
-Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
-6.
-Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
+
+**3. Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!**
+
+![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/81ce7276-377b-43c0-b821-623d52cb32eb)
+
+![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/00f86618-dcd0-40f4-a3d0-7bcf83887a66)
+
+**4. Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.**
+
+![Screenshot 2024-05-20 162140](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/793b113c-9a35-4adb-8f4a-12a4230a297b)
+
+**5. Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.**
+
+![Screenshot 2024-05-20 162535](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/c71cae2d-2e14-4eee-b46b-daa8bd99793a)
+
