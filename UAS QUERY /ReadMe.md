@@ -30,7 +30,7 @@
 
 ![Screenshot 2024-06-08 220059](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/c231d330-cac7-4190-abf1-0c00d875f104)
 
-**4.  Tampilkan nama user yang menghabiskan uang paling banyak dan berapa jumlah uang yang dihabiskannya di klinik ini diurutkan berdasarkan jumlah total dari yang tertinggi ke yang terendah**
+**4.  Tampilkan nama user yang menghabiskan uang paling banyak dan berapa jumlah uang yang dihabiskannya di klinik ini**
 
 **-> GAMBAR MAP**
 
