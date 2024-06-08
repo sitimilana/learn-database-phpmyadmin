@@ -23,7 +23,8 @@
 
 **-> GAMBAR MAP**
 
-![Screenshot 2024-06-08 210443](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/34e4b865-5fec-43bd-bfd0-5a4e5736d0f3)
+![Screenshot 2024-06-08 222429](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/b8832882-7413-4825-a3c1-5c3a45e4d9e0)
+
 
 **-> QUERY**
 
