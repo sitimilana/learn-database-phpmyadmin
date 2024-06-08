@@ -40,7 +40,7 @@
 
 ![image](https://github.com/sitimilana/learn-database-phpmyadmin/assets/160199567/d4e6913a-6faf-40c1-ad35-4ba16f1d1204)
 
-**4.  Tampilkan data penjualan kursus berupa judul dan total penjualan diurutkan dari yang penjualannya paling besar ke yang paling kecil**
+**5.  Tampilkan data penjualan kursus berupa judul dan total penjualan diurutkan dari yang penjualannya paling besar ke yang paling kecil**
 
 **-> GAMBAR MAP**
 
